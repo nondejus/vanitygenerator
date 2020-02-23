@@ -1,36 +1,27 @@
 # vanitygenerator
 =================
 
-職位腳本
-
 8 0 7 7    職 duty, profession; office, post
 4 F 4 D    位 throne; position, post; rank, status; seat
 8 1 7 3    腳 foot; base, leg, foundation
 6 7 2 C    本 root, origin, source; basis
-
-
-零光柵圖
 
 9 6 F 6    零 zero; fragment, fraction
 5 1 4 9    光 light, brilliant, shine; only
 6 7 F 5    柵 fence; palisade; grid
 5 7 1 6    圖 diagram; chart, map, picture
 
-
-像處理器
-
 5 0 C F    像 a picture, image, figure; to resemble
 8 6 5 5    處 place, locale; department
 7 4 0 6    理 reason, logic; manage
 5 6 6 8    器 receptacle, vessel; instrument
-
-
-粉刷渲染
 
 7 C 8 9    粉 powder, face powder; plaster
 5 2 3 7    刷 brush; clean with brush, scrub
 6 E 3 2    渲 add repeated washes of color
 6 7 D 3    染 dye; be contagious; infect
 
-
-奇蹟出口
+5 9 4 7    奇 strange, unusual, uncanny, occult
+8 E 5 F    蹟 trace, tracks; footprints
+5 1 F A    出 go out, send out; stand; produce
+5 3 E 3    口 mouth; open end; entrance, gate
